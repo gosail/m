@@ -1,0 +1,292 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="gb2312">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Language" content="gb2312" />
+<meta content="all" name="robots" />
+<link rel="stylesheet" href="../../../css/c.css" type="text/css" media="all"  />
+</head>
+<body id="fzdmcom">
+<div id="header"><div id="topmenu"> 
+<ul>
+<li id="i"><div align="center"><script src="http://www.fzdm.com/menu.js"></script></div></li>
+<li id="h"><a href="../../Soft/">下载中心</a></li>
+<li id="g"><a href="../../Flash/">动漫flash</a></li>
+<li id="f"><a href="../../pic/">动漫图片</a></li>
+<li id="e"><a href="http://music.fzdm.com">动漫音乐</a></li>
+<li id="d"><a href="../../manhua/">在线漫画</a></li>
+<li id="c"><a href="../../Article/">动漫文学</a></li>
+<li id="b"><a href="../../News/">动漫新闻</a></li>
+<li id="a"><a href="http://www.fzdm.com/">首页</a></li></ul>
+</div>
+<div id="topad">
+<iframe src="http://www.fzdm.com/top1.html" width="774" height="80" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="http://www.fzdm.com/top2.html" width="776" height="40" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></div><br>
+<?php 
+$configExt   = array('jpg', 'jpeg', 'gif', 'png'); //图片类型 
+$strLenMax   = 25;         //文件名字限制长度 (防止撑破表格) 
+$configPageMax  = 55;       //分页前后预览数 
+$configTilte  = "美鸟日记4话";    //标题 
+
+Class neatpic 
+{ 
+var $configExt = array(); 
+var $strLenMax; 
+var $configPageMax; 
+var $configTilte; 
+
+var $pathLevelNum; 
+var $nowDirNmae; 
+var $dirNum; 
+var $picNum; 
+var $pageTotal; 
+var $start; 
+var $offSet; 
+var $pageStart; 
+var $pageMiddle; 
+var $pageEnd; 
+var $picID; 
+
+var $picArray = array(); 
+var $picFileArray = array(); 
+var $dirArray = array(); 
+var $dirNameArray = array(); 
+var $pathArray = array(); 
+var $pathError = false; 
+
+var $page; 
+var $path; 
+var $style; 
+
+function neatpic($configExt, $strLenMax,$configPageMax, $configTilte) 
+{ 
+ $this->configExt   = $configExt; 
+ $this->strLenMax   = $strLenMax; 
+ $this->configEachPageMax = 1; 
+ $this->configEachLineMax = 1; 
+ $this->configPageMax  = $configPageMax; 
+ $this->configTilte   = $configTilte; 
+} 
+
+function getVars() 
+{ 
+$this->page = urldecode($_GET['page']); 
+$this->path = $_GET['path']; 
+ if (!$this->path) $this->path = "."; 
+} 
+
+function checkError() 
+{ 
+ if (preg_match("/\.\./", $this->path)) $pathError = true; 
+ if (!is_dir($this->path)) $pathError = true; 
+
+ if ($pathError == true) 
+ { 
+  header("location:".$_SERVER['PHP_SELF']); 
+  exit; 
+ } 
+} 
+
+function pathArrayInitialize() 
+{ 
+ if (!$this->path) $this->path = "."; 
+
+ $this->pathArray = explode("/", $this->path); 
+ $this->pathLevelNum = count($this->pathArray); 
+ $this->nowDirName = $this->pathArray[$this->pathLevelNum - 1]; 
+ if ($this->nowDirName == ".") $this->nowDirName = ""; 
+} 
+
+
+
+function makeOverdirect() 
+{ 
+ $overPath = "."; 
+ { 
+ } 
+ 
+ $this->dirArray[] = $overPath; 
+ $this->dirNameArray[] = ""; 
+} 
+
+function getFileExt($fileName) 
+{ 
+ $pos = strrpos($fileName, '.'); 
+ return strtolower(substr($fileName, $pos+1, (strlen($fileName)-$pos-1))); 
+} 
+
+function makeDirList() 
+{ 
+
+ $dir = dir($this->path); 
+ while($file = $dir->read()) 
+ { 
+  if ($file <> "." and $file <> "..") 
+  { 
+   $fileName = $file; 
+   $file = $this->path."/".$file; 
+
+   if (is_dir($file)) 
+   { 
+    $this->dirArray[] = $file; 
+    $this->dirNameArray[] = $fileName; 
+   } 
+    
+   if (in_array($this->getFileExt($file), $this->configExt)) 
+   { 
+    $this->picArray[] = $file; 
+    $this->picFileArray[] = $fileName; 
+   } 
+  } 
+ } 
+} 
+
+function getEachArrayNum() 
+{ 
+ $this->dirNum = count($this->dirArray); 
+ $this->picNum = count($this->picArray); 
+} 
+
+function makePageBar() 
+{ 
+
+ $this->pageTotal = ceil($this->picNum / $this->configEachPageMax); 
+
+ if (!$this->page or $this->page < 0) $this->page = 1; 
+ if ($this->page > $this->pageTotal) $this->page = $this->pageTotal; 
+
+ $this->offSet = $this->configEachPageMax * $this->page; 
+ $this->start = $this->offSet - $this->configEachPageMax; 
+
+ if ($this->start < 0) $this->start = 0; 
+ if ($this->offSet > $this->picNum) $this->offSet = $this->picNum; 
+
+ $this->pageStart = $this->page - $this->configPageMax; 
+ if ($this->pageStart <= 0) $this->pageStart = 1; 
+
+ $this->pageMiddle = $this->page + 1; 
+ $this->pageEnd = $this->pageMiddle + $this->configPageMax; 
+  
+ if ($this->page <= $this->configPageMax) $this->pageEnd = $this->configPageMax * 2 + 1; 
+ if ($this->pageEnd > $this->pageTotal) $this->pageEnd = $this->pageTotal + 1; 
+} 
+
+function showPageBar() 
+{ 
+ print("<p><table width='760' height='40' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td>
+"); 
+ print("[<strong><A HREF=\"".$_SERVER['PHP_SELF']."?path=".$this->path."&page=".($this->page - 1)."\" id=\"up\">上一页</A></strong>]&nbsp;"); 
+  
+ for ($i = $this->pageStart; $i < $this->page; $i++) 
+ { 
+  print("<A HREF=\"".$_SERVER['PHP_SELF']."?path=".$this->path."&page=".$i."\"> ".$i."</A>&nbsp;"); 
+ } 
+
+ printf("<FONT COLOR=\"red\"><B>%s</B></FONT>",$this->page); 
+
+ for ($i = $this->pageMiddle; $i < $this->pageEnd; $i++) 
+ { 
+  print("<A HREF=\"".$_SERVER['PHP_SELF']."?path=".$this->path."&page=".$i."\"> ".$i."</A>&nbsp;"); 
+ } 
+
+ print("[<strong><A HREF=\"".$_SERVER['PHP_SELF']."?path=".$this->path."&page=".($this->page + 1)."\" id=\"down\">下一页</A></strong>]"); 
+
+ print("</td></tr></table>"); 
+} 
+
+function setPicID($id) 
+{ 
+ $this->picID = $id; 
+} 
+
+function getPicDim() 
+{     
+ $picSize = GetImageSize($this->picArray[$this->picID]); 
+ preg_match("!width=\"(.*)\" height=\"(.*)\"!", $picSize['3'], $tempSize); 
+
+} 
+
+function showTitle() 
+{ 
+ print("<title>".$this->configTilte."</title>\n"); 
+ print("<BODY id=\"fzdmcom\" oncontextmenu=window.event.returnValue=false 
+onselectstart=event.returnValue=false ondragstart=window.event.returnValue=false onsource=\"event.returnValue=false\"><div align=\"center\">\n"); 
+} 
+
+
+function showDirList() 
+{ 
+ for($i = 0; $i < $this->dirNum; $i++) 
+ { 
+ } 
+} 
+
+function sortName($filename) 
+{ 
+ $strlen = strlen($filename); 
+ return $filename; 
+} 
+
+function showPicList() 
+{ 
+
+ if ($this->style == "real") 
+ {   
+  for($i = $this->start; $i < $this->offSet; $i++) 
+  { 
+
+   printf("<IMG SRC=\"%s\" BORDER=\"0\"></A><BR><BR>\n", $this->picArray[$i], $this->picArray[$i]); 
+  } 
+  
+ } 
+ 
+ else 
+ { 
+  for($i = $this->start; $i < $this->offSet; $i++) 
+  { 
+
+   $this->setPicID($i); 
+   $this->getPicDim(); 
+
+
+printf("
+<IMG SRC=\"%s\" border=\"0\" /><SCRIPT LANGUAGE=\"JavaScript\"><!-- 
+Image1= new Image 
+Image1.src = \"".$this->path."/%s\"// --></SCRIPT>\n", $this->sortName($this->picFileArray[$i]),$this->picFileArray[$i+1]); 
+   { 
+   } 
+  } 
+ } 
+} 
+
+
+function execute() 
+{ 
+ $this->getVars(); 
+ $this->checkError(); 
+ $this->showTitle(); 
+ $this->pathArrayInitialize(); 
+ $this->makeOverdirect(); 
+ $this->makeDirList(); 
+ $this->getEachArrayNum(); 
+ $this->makePageBar(); 
+ $this->showDirList(); 
+ $this->showPicList(); 
+ $this->showPageBar(); 
+} 
+} 
+$neatpic = new neatpic($configExt, $strLenMax,  $configPageMax, $configTilte); 
+
+$neatpic->execute(); 
+?>
+<div id="footerad">
+<div class="footerad"><iframe src="http://www.fzdm.com/foot.html" width="770" height="90" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></div>
+<div id="footer">
+<a href="http://www.fzdm.com/about.html">关于我们</a> | <a href="http://www.fzdm.com/lianxi.html">联系方式</a> | <a href="http://www.fzdm.com/ads.html">广告服务</a> | <a href="http://www.fzdm.com/links.html"> 友情链接</a> | <a href="http://www.fzdm.com/map.html">网站地图</a>
+<br />Copyright &#9426; 2003-2004 风之动漫<br />
+<script src="http://www.fzdm.com/stat.js"></script>
+</div></body></html>
