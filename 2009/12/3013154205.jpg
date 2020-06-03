@@ -1,0 +1,161 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	ggyy8.cc
+</title>
+<style type="text/css">
+.module_searchBox {background-color: #AAAAAA; height: 45px; padding-top: 15px; text-align: center; vertical-align: middle;}
+.module_relatedSearches,
+.module_hotQueries {text-align: center;}
+</style>
+</head>
+
+<body id="index">
+<form name="sdo" method="get" action="GoogleSDO/China_v3.aspx?404%3bhttp%3a%2f%2fimages.ggyy8.cc%3a80%2fcomic%2fy%2fyjdwb%2fvol_165%2f005006.png" id="sdo">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwNjUzMzE1ODJkZBPnKLRib+CN2Aic/lLfVIM00NfM" />
+
+
+<!--
+=================================================
+** START DEBUG OUTPUT                          **
+=================================================
+             Version: 3.6.119.1
+           Webserver: 5906F
+      Det._Client_IP: 59.57.15.85
+              VIP_IP: 69.64.147.225
+           HTTP_Host: images.ggyy8.cc
+         Domain_Name: ggyy8.cc
+  Total_Process_Time: 31ms
+       MemCache_Time: 15ms (50%)
+       Database_Time: 0ms (0%)
+            API_Time: 0ms (0%)
+=================================================
+** END DEBUG OUTPUT                            **
+=================================================
+-->
+
+
+
+<div class="module_searchBox">
+    <script type="text/javascript"><!--
+        google_ad_format = "afd_sdo";
+        google_ad_client = "aff-dp-demandmedia";
+        google_ad_width = 500;
+        google_ad_height = 30;
+        google_searchbox_width = 420;
+        google_searchbox_height = 20;
+        google_searchbox_color_border = "003366";
+        google_color_bg = "AAAAAA";
+        google_num_cts = 0;
+        google_rs_pos = "below";
+        google_ad_channel = "10001000";
+    //-->
+    </script>
+    <script type="text/javascript" src="http://domains.googlesyndication.com/pagead/show_sdo.js">
+    </script>
+</div>
+
+
+
+
+<div class="module_relatedSearches">
+    <p><strong>相关搜索</strong></p>
+    <script type="text/javascript"><!--
+    google_ad_format = "afd_cts_only_sdo";
+    google_ad_client = "aff-dp-demandmedia";
+    google_ad_width = 800;
+    google_ad_height = 180;
+    google_rs_pos = "below";
+    google_color_bg = "FFFFFF";
+    google_link_target = 1;
+    google_cts_font_size = 15;
+    google_cts_per_row = 5;
+    google_color_link = "0033FF";
+    google_num_cts = 40;
+    google_cts_mode = "rs";
+    google_kw = "在线漫画_叽叽歪歪ggyy8 火影忍者漫画海贼王漫画死神漫画 __OR__ 当您输入www.ggyy8.cc无法访问时，请试着访问ggyy8.cc看看。  原动漫讨论社区bbs.  ggyy8.cc. www.ggyy8.com www.ggyy8.net www.ggyy8.cn www.ggyy8.cc ";
+    google_ad_channel = "10001001";
+//-->
+</script>
+    <script type="text/javascript" src="http://domains.googlesyndication.com/pagead/show_sdo.js">
+    </script>
+</div>
+
+
+
+
+<div class="module_hotQueries">
+    <p><strong>热门查询</strong></p>
+    <script type="text/javascript"><!--
+        google_ad_format = "afd_cts_only_sdo";
+        google_ad_client = "aff-dp-demandmedia";
+        google_ad_width = 800;
+        google_ad_height = 120;
+        google_rs_pos = "below";
+        google_color_bg = "FFFFFF";
+        google_link_target = 2;
+        google_cts_font_size = 15;
+        google_cts_per_row = 5;
+        google_color_link = "0033FF";
+        google_num_cts = 20;
+        google_cts_mode = "hq";
+        google_ad_channel = "10001002";
+    //-->
+    </script>
+    <script type="text/javascript" src="http://domains.googlesyndication.com/pagead/show_sdo.js">
+    </script>
+</div>
+
+
+
+
+<div class="module_searchBox">
+    <script type="text/javascript"><!--
+        google_ad_format = "afd_sdo";
+        google_ad_client = "aff-dp-demandmedia";
+        google_ad_width = 500;
+        google_ad_height = 30;
+        google_searchbox_width = 420;
+        google_searchbox_height = 20;
+        google_searchbox_color_border = "003366";
+        google_color_bg = "AAAAAA";
+        google_num_cts = 0;
+        google_rs_pos = "below";
+        google_ad_channel = "10001003";
+    //-->
+    </script>
+    <script type="text/javascript" src="http://domains.googlesyndication.com/pagead/show_sdo.js">
+    </script>
+</div>
+
+
+
+</form>
+
+
+<script language='javascript' type='Text/Javascript'>
+function GetIPPI(g) {
+    var xmlHttp = createXMLHttpRequest();
+    if (xmlHttp != null) {
+        xmlHttp.open('GET', '/'+g+'.ippi?g='+g, true);
+        xmlHttp.send(null);
+    }
+}
+
+function createXMLHttpRequest() {
+  try { return new ActiveXObject('Msxml2.XMLHTTP'); } catch(e) {}
+  try { return new ActiveXObject('Microsoft.XMLHTTP'); } catch(e) {}
+  try { return new XMLHttpRequest(); } catch(e) {}
+  return null;
+}
+
+GetIPPI('2b05f410-b4fd-40a1-851e-b7b59e0edca4');
+</script>
+
+
+</body>
+</html>
