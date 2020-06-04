@@ -1,0 +1,771 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/0.8.55</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+b42 gintama\/\u7b2c380\u8bdd\/001.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/002.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/003.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/004.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/005.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/006.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/007.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/008.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/009.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/010.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/011.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/012.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/013.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/014.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/015.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/016.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/017.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/018.jpg","y\/\u94f6\u9b42 gintama\/\u7b2c380\u8bdd\/019.jpg"]';
+var g_comic_name = "银魂";
+var g_chapter_name = "第380话";
+var g_comic_url = "yinhun/";
+var g_chapter_url = "yinhun/18096.shtml";
+var g_current_page = 1;
+var g_max_pic_count = 19;
+var g_page_base = '';
+var g_comic_id = res_id = '382';
+var g_chapter_id = chapter_id = '18096';
+var g_comic_code = '3746b4d635bed8ba74af5df8e678acb6';
+var arr_pages = eval(pages);
+var next_chapter_pages = '[]';
+var arr_nextchapter_pages = eval(next_chapter_pages); 
+var final_page_url = "http://www.178.com/mh/yinhun/jump.shtml";
+var sns_sys_id = '382_18096';
+var sns_view_point_token = '93e0e2d3f6f8f38e99624e908908e33f';
+var is_hot_comic = false;
+var is_fast_comic = false;
+var page_site_root = '/mh/';
+var res_type= 1
+</script>
+<link rel="stylesheet" type="text/css" href="http://www.178.com/s/css/nav.css" />
+<link href="http://manhua.178.com/css/base.css" rel="stylesheet" type="text/css" />
+<link href="http://manhua.178.com/css/display2010.css?tt=201110701" rel="stylesheet" type="text/css" />
+<link href="http://interface3.i.178.com/res/cite/css/cite_for_all.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://manhua.178.com/js/jquery.js"></script>
+<script type="text/javascript" src="http://www.178.com/s/js/nav.js"></script>
+<script type="text/javascript" src="http://manhua.178.com/js/cookie.js"></script>
+<script type="text/javascript" src="http://manhua.178.com/js/comic2011.js?tt=20110190"></script>
+<script type="text/javascript" src="http://manhua.178.com/js/pp2011.js?tt=20111123"></script>
+
+</head>
+<body>
+<div class="display_box">
+    <ul>
+      <a href="http://acg.178.com" title="178动漫频道" target="_blank"><img alt="178动漫频道" src="http://manhua.178.com/css/img/logo1.gif" /></a> 
+    </ul>
+    <ol>
+       <li><a href="http://donghua.178.com/" title="动画" >在线动画</a></li><li>|</li>
+       <li><span class="navicon"></span><a title="漫画" href="http://manhua.178.com/index.shtml">在线漫画</a></li><li>|</li>
+	    <li><a href="http://acg.178.com/xs/" title="轻小说">轻小说</a></li><li>|</li>
+       <li><a href="http://dmzj.178.com" title="动漫" target="_blank">动漫之家</a></li>
+	   <li><a href="http://tu.178.com/" title="萌图库" target="_blank">萌图库</a></li>
+       <li class="fff">
+       <div class="h-bottom_earch">
+       <form action="http://manhua.178.com/tags/search.shtml" method='get'>
+         <input  type="text"  onclick="if(this.value=='请输入漫画名或作者'){this.value='';}" name="s" id="key" value="请输入漫画名或作者"/>
+              <button type="submit"></button>
+	   </form>
+         </div><!--h-bottom_earch--></li>
+		
+    </ol>
+    <dl>
+      <dt><a title="178在线漫画" href="http://manhua.178.com/">178在线漫画 </a> &gt;&gt; <a href="http://manhua.178.com/tags/y.shtml">首字母Y</a> &gt;&gt; <a title="银魂" href="http://manhua.178.com/yinhun/">银魂</a> &gt;&gt; <strong>第380话</strong></dt>
+      <dt><div>键盘：↑&nbsp;↓&nbsp;滚动，←&nbsp;→&nbsp;翻页&nbsp;鼠标：右键(拖动)，左键(下页)</div></dt>
+    </dl>
+</div>
+<script src="http://market.178.com/178acg/1309417367.js" type="text/javascript"></script>
+<div class="display_graybg funcdiv" style="margin:0 auto;width:980px;margin:0 auto;height:30px;line-height:30px;border-bottom:1px #ccc solid;">
+<div style="float:left;">
+<span class="red1_font12">&nbsp;功能选项：</span>
+<span class="icon20"></span><span style="color:#FF5901;font-size:14px;font-weight:bold;">每页<select id="show_num_select">
+      <option value='1'>1</option> 
+        <option value="2">2</option> 
+        <option value="3">3</option> 
+        <option value="5">5</option> 
+        <option value="10">10</option> 
+       </select>张图</span>
+<span class="icon20"></span><span style= "font-size:14px;padding-left:5px" title="开启此功能后，超出浏览器宽度的图片将自动适应到浏览器宽度"><input type="checkbox" class="zoompic_chk" id="zoompic_chk1" value="zoom" /><label class="zoompic_label" style="cursor:pointer;" for="zoompic_chk1" >大图自动缩小</label></span>
+
+<span class="icon20"></span><a href="http://i.178.com/~sms.cartoon.cartoonListUid" target='_blank'>管理我的订阅</a>
+<span class="icon20"></span><a href="http://i.178.com/~sms.index.view_send_form/reciever/%E9%95%B7%E7%80%AC%E6%B9%8A/uid/2600003" target="_blank" class="red1_font12">报错</a>　　　
+<span class="icon20"></span>如果图片打开缓慢，请选择线路：</div><div class="serv"><a href="javascript:void(0);" class=" switchServer" isp_type='auto' id='default_server'  server_domain='http://manhua.178.com'>自动</a><a href="javascript:void(0);" class='switchServer' isp_type='tel' server_domain='http://manhua88.178.com'>电信</a><a href="javascript:void(0);" class='switchServer' isp_type='cnc' server_domain='http://manhua170.178.com'>网通</a></div>
+
+</div>
+<div class="clearfix"></div>
+<div class="display_graybg">
+        <div class="display_left">上一话：<a id="prev_chapter" href="18052.shtml">第379话</a></div>
+        <div class="display_middle"><h1 class="hotrmtexth1"><a href="http://manhua.178.com/yinhun/" title="银魂" class="redhotl">银魂</a></h1> <span class="redhotl">第380话</span></div>
+        <div class="display_right"></div>   
+</div><!--display_graybg-->
+
+ <div style="margin:0 auto;width:980px;margin:5px auto">
+ <div style="display:inline;float:left;width:220px;height:19px;text-align:left"></div>
+<div style="display:inline;float:right;width:220px;text-align:left">
+ <ul style="height:19px;line-height:19px;float:right;">
+					<li style="float:left;padding-top:1px"><script type="text/javascript">document.write('<iframe  frameborder="0" scrolling="no" frameborder="0" src="http://hits.sinajs.cn/A1/weiboshare.html?url=%url%&appkey=&type=6" width="86" height="16"></iframe>'.replace(/%url%/,encodeURIComponent(location.href)));</script></li>
+<li style="float:left;margin-left:5px">
+<script>
+                                    function posttoWb(){
+											var custome_t = g_comic_name + "  " + ''+g_chapter_name+"\r\n";
+                                            var _t = encodeURI(custome_t);
+											var _url = encodeURI(window.location);
+                                            var _source = 1000001;
+                                            var _site = encodeURI('http://manhua.178.com/');
+                                            var _pic = '';
+                                            var _u = 'http://v.t.qq.com/share/share.php?title='+_t+'&url='+_url+'&source='+_source+'&site='+_site+'&pic='+_pic;
+                                            window.open( _u,'转播到腾讯微博', 'width=700, height=580, top=320, left=180, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' );
+                                        }
+                                    </script>
+                                    <style>
+                                    .tmblog{
+                                        padding-left:22px;
+                                        height:19px;
+                                        display:inline-block;
+                                        line-height:19px;
+                                        background:url(http://v.t.qq.com/share/images/ico.png) no-repeat left center;
+                                    }
+                                    </style>
+                                    <a href="javascript:void(0)" onClick="posttoWb();" class="tmblog" >转播到腾讯微博</a></li>
+                                    </ul>
+ </div>
+   <a style="display:none" href="javascript:;" id="prev"></a>
+   <a style="display:none" href="javascript:;" id="next"></a>
+  <div class="pages2" style="display:inline;">
+
+  </div>
+
+ </div>
+<div class="clearfix"></div>
+<div id="center_box" style="text-align:center" >
+</div>
+<div style="margin:0 auto;width:980px;margin:5px auto">
+ <div style="display:inline;float:left;width:220px;height:19px;text-align:left"></div>
+ <div style="display:inline;float:right;width:220px;text-align:left">
+ <ul style="height:19px;line-height:19px;float:right;">
+					<li style="float:left;padding-top:1px"><script type="text/javascript">document.write('<iframe  frameborder="0" scrolling="no" frameborder="0" src="http://hits.sinajs.cn/A1/weiboshare.html?url=%url%&appkey=&type=6" width="86" height="16"></iframe>'.replace(/%url%/,encodeURIComponent(location.href)));</script></li>
+<li style="float:left;margin-left:5px">
+                                    <a href="javascript:void(0)" onClick="posttoWb();" class="tmblog" >转播到腾讯微博</a></li>
+                                    </ul>
+ </div>
+  <div class="pages2" style="display:inline;">
+
+  </div>
+ 
+ </div>
+<!--pages--> 
+
+
+<div style="display:none">
+    <img id="nxpic" name="nxpic" />
+</div>
+
+<div style="clear:both"></div>
+<div id="sns_cite_vote_list" style="margin:0 auto;width:880px;"></div><!--view point div-->
+<div class="box_text">
+  本页银魂漫画内容均来自互联网，178与内容的出处无关，如有违反您的权益，或您发现有任何不良内容或图片错误，【<a href="http://i.178.com/~sms.index.view_send_form/reciever/%E9%95%B7%E7%80%AC%E6%B9%8A/uid/2600003" target="_blank">请与我们联系</a>】，我们将修正该漫画图片
+</div>
+<div class="clearfix"></div> 
+<div class="hotrmbox">
+                   <div class="photo_part" >
+                       <h2 class="h2_title2">
+                          <span class="h2_icon h2_icon23"></span>
+                          <strong>推荐漫画</strong> 
+                      </h2>
+                  </div><!--photo_part-->
+                  
+                  <div class="hotrmtext">
+                    <ul>
+                        <li><a href="http://manhua.178.com/emgzlxy/" target="_blank" title="恶魔公主露茜娅"><img src="http://img.178.com/acg1/201101/88985703584/88985717542.jpg" alt="恶魔公主露茜娅" /></a><p><a href="http://manhua.178.com/emgzlxy/" target="_blank" title="恶魔公主露茜娅">恶魔公主露茜娅</a></p><p>天使与恶魔的后宫</p></li>
+                        <li><a href="http://manhua.178.com/zhejiushijiangshime/" target="_blank" title="这就是僵尸么"><img src="http://img.178.com/acg1/201101/88985703584/88985749118.jpg" alt="这就是僵尸么" /></a><p><a href="http://manhua.178.com/zhejiushijiangshime/" target="_blank" title="这就是僵尸么">这就是僵尸么</a></p><p>僵尸与变态魔装少女</p></li>
+                        <li><a href="http://manhua.178.com/mmgjynrdw/" target="_blank" title="迷茫管家与懦弱的我"><img src="http://img.178.com/acg1/201101/88985703584/88985735143.jpg" alt="迷茫管家与懦弱的我" /></a><p><a href="http://manhua.178.com/mmgjynrdw/" target="_blank" title="迷茫管家与懦弱的我">迷茫管家与懦弱的我</a></p><p>最萌美少女管家</p></li>
+                        <li><a href="http://manhua.178.com/jingjidejuren/" target="_blank" title="进击的巨人"><img src="http://img.178.com/acg1/201101/88985703584/88987310149.jpg" alt="进击的巨人" /></a><p><a href="http://manhua.178.com/jingjidejuren/" target="_blank" title="进击的巨人">进击的巨人</a></p><p>恐怖巨人的袭击</p></li>
+                        <li><a href="http://manhua.178.com/ftdyly/" target="_blank" title="绯弹的亚莉亚"><img src="http://img.178.com/acg1/201101/88985703584/88987301199.jpg" alt="绯弹的亚莉亚" /></a><p><a href="http://manhua.178.com/ftdyly/" target="_blank" title="绯弹的亚莉亚">绯弹的亚莉亚</a></p><p>S级最强武侦萝莉</p></li>
+                        <li><a href="http://manhua.178.com/ncnzqgbctj/" target="_blank" title="拿出男子气概吧仓田君！"><img src="http://img.178.com/acg1/201101/88985703584/88987293621.jpg" alt="拿出男子气概吧仓田君！" /></a><p><a href="http://manhua.178.com/ncnzqgbctj/" target="_blank" title="拿出男子气概吧仓田君！">拿出男子气概吧</a></p><p>禁断劈腿爱情喜剧</p></li>
+                        <li><a href="http://manhua.178.com/jgmss/" target="_blank" title="机工魔术士"><img src="http://img.178.com/acg1/201101/88985703584/88985722733.jpg" alt="机工魔术士" /></a><p><a href="http://manhua.178.com/jgmss/" target="_blank" title="机工魔术士">机工魔术士</a></p><p>和美女恶魔同居吧</p></li>
+                        <li><a href="http://manhua.178.com/lingduzhanji/" target="_blank" title="零度战姬"><img src="http://img.178.com/acg1/201101/88985703584/88985728730.jpg" alt="零度战姬" /></a><p><a href="http://manhua.178.com/lingduzhanji/" target="_blank" title="零度战姬">零度战姬</a></p><p>巨X御姐控必看漫画</p></li>
+                    </ul>
+                  </div>
+       <div class="clearfix"></div>
+</div><!--hotrmbox-->
+<div class="clearfix"></div>    
+<div class="footer">
+<div style="display:none;">
+<script src='http://w.cnzz.com/c.php?id=30039253' language='JavaScript'></script>
+<script src='http://w.cnzz.com/c.php?id=30043528' language='JavaScript' charset='gb2312'></script>
+</div>
+<script src="http://www.178.com/s/js/footer.js"></script>
+	<div style='display:none;'></div>
+</div>
+
+<!--transit -div -->
+<div class="mask_panel" id="transit_div" style="display: block;display:none ">
+     <div class="pop_grade" >
+	     <div class="pop_bbsadmin" id="internal_div" style="display:none">
+	     <div class="pop_bbsadmin_top">提示信息</div>
+		 <div class="pop_bbsadmin_mend">
+		      <div class="pop_bbsadmin_mend_back">
+			      <div class="pop_bbsadmin_choice2">
+				       <strong class="pop_grade_clew-icon"></strong><span style="color:#F3742F;">本章节已经浏览完毕，您可以：</span>
+				  </div><!--pop_bbsadmin_choice-->
+				  <div style="text-align:center">
+				  <input type="button" value="留在本页" style="margin-right:20px;" 	id="close_btn" class="part_collection_bnt"/> 
+				  <input type="button" value="浏览下一章节" style="margin-right:20px;"  id="next_btn"	class="part_collection_bnt"/>
+				  <br/>
+				  <div style="padding-top:10px;"><b><a  href="#sns_cite_vote_list" id="go_sns_view_input">我要对本章节吐槽>></a></b></div>
+				  </div>
+				   		      
+			  </div><!--pop_bbsadmin_mend_back-->
+		 </div><!--pop_grade_mend-->
+		 <div class="pop_bbsadmin_foot"></div>
+	 </div>
+	 </div><!--pop_grade-->	 	 
+</div><!--panel end-->
+<!--transit div end-->
+<div style='display:none;' >
+	<script type='text/javascript'>
+		document.domain = '178.com';
+		var _v_iframe_ = {};
+		_v_iframe_.init = function(){
+			var datas = $.cookie('_178c');
+			if(datas != null && datas!=''){
+				var t = datas.split('#')
+				var uid = t[0];		
+			}else{
+				var uid = 0;
+			}
+			var pic_show_num = getShowNumber(uid);
+			var last_page = Math.ceil(g_max_pic_count/pic_show_num);
+			var cur_page = getPageNumber(window.location.href);
+			if(!cur_page){
+				cur_page = 1;
+			}
+			var is_last_page = ((cur_page >= last_page) && !arr_nextchapter_pages.length) ? 1 : 0;
+			var __iframe_str = "<iframe width='1px' height='1px' src='http://manhua.178.com/cache/iframe/_v_history.html?comic_id="+ g_comic_id +"&comic_url="+ encodeURIComponent(g_comic_url) +"&chapter_url="+ encodeURIComponent(g_chapter_url) +"&comic_name="+  encodeURIComponent(g_comic_name) +"&chapter_name="+ encodeURIComponent(g_chapter_name) +"&p="+ getPageNumber(location.href) +"&is_last="+ is_last_page +"' style='display:none;' id='iframe_history'></iframe>";
+			document.write(__iframe_str);
+		}
+		_v_iframe_.init();
+	</script>
+</div>
+
+</body>
+</html>gcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/ZZSW" target="_blank"><img src="http://comic.sfacg.com/Logo/85a505cf-e9e6-443f-8fc7-66eb1e950332.jpg" width="80" height="100" border="0" alt="直至死亡将我们分开" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/ZZSW" target="_blank">直至死亡将我们分开</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">129话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/GEXGO" target="_blank"><img src="http://comic.sfacg.com/Logo/020627be-118f-4a64-b8e4-2c56e2c95440.jpg" width="80" height="100" border="0" alt="GE Good Ending" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/GEXGO" target="_blank">GE Good Endi..</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">106话</td>
+                </tr>
+            </table></td>
+	</tr>
+	</table>
+	</div>
+	<div id="Day3" style="display:none">
+      <table border="0" cellpadding="0" cellspacing="0" class="font_red gray_link1 space10px">
+	<tr>
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/GSY" target="_blank"><img src="http://comic.sfacg.com/Logo/f32d5075-19db-4922-bd43-07ec93968bb2.jpg" width="80" height="100" border="0" alt="革神语" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/GSY" target="_blank">革神语</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">142话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/CFH" target="_blank"><img src="http://comic.sfacg.com/Logo/1a9f7cc3-c683-4e14-a8f9-d5da3f58abbc.jpg" width="80" height="100" border="0" alt="虫奉行" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/CFH" target="_blank">虫奉行</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">039话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/HYJ" target="_blank"><img src="http://comic.sfacg.com/Logo/70616fbe-1529-4b66-9749-edad34f85bb3.jpg" width="80" height="100" border="0" alt="海月姬" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/HYJ" target="_blank">海月姬</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">024话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/WDJSN" target="_blank"><img src="http://comic.sfacg.com/Logo/8e68c92e-041b-4de1-8b56-76c6d9f61ca3.jpg" width="80" height="100" border="0" alt="我的僵尸女友不可能这么可爱" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/WDJSN" target="_blank">我的僵尸女友不可能这么可..</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">026话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/YBTX" target="_blank"><img src="http://comic.sfacg.com/Logo/d23ff919-9454-4c58-b374-6350da7c4e5c.jpg" width="80" height="100" border="0" alt="佣兵天下" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/YBTX" target="_blank">佣兵天下</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">017话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/HZDLQ" target="_blank"><img src="http://comic.sfacg.com/Logo/31309503-624a-4af5-a874-c7b66ee760c7.jpg" width="80" height="100" border="0" alt="黑子的篮球" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/HZDLQ" target="_blank">黑子的篮球</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">143话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/shiszqdzqy" target="_blank"><img src="http://comic.sfacg.com/Logo/89d8523b-e3dd-4b59-aadb-f333ab4e6e0f.jpg" width="80" height="100" border="0" alt="史上最强弟子兼一" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/shiszqdzqy" target="_blank">史上最强弟子兼一</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">453话</td>
+                </tr>
+            </table></td>
+	</tr><tr>
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/ZYSZD" target="_blank"><img src="http://comic.sfacg.com/Logo/9ee41d10-441b-4c62-bf03-741e344b2788.jpg" width="80" height="100" border="0" alt="只有神知道的世界" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/ZYSZD" target="_blank">只有神知道的世界</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">168话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/ZQHZHS" target="_blank"><img src="http://comic.sfacg.com/Logo/240a76ed-ea2d-41b4-bc9f-0aafd8bd4ed9.jpg" width="80" height="100" border="0" alt="最强会长黑神" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/ZQHZHS" target="_blank">最强会长黑神</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">124话</td>
+                </tr>
+            </table></td>
+	</tr>
+	</table>
+	</div>
+	<div id="Day2" style="display:none">
+      <table border="0" cellpadding="0" cellspacing="0" class="font_red gray_link1 space10px">
+	<tr>
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/HZQS" target="_blank"><img src="http://comic.sfacg.com/Logo/1b2cb7dc-0ef9-4d9b-a32c-3dccdba9a39e.jpg" width="80" height="100" border="0" alt="花之骑士" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/HZQS" target="_blank">花之骑士</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">019话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/GQCYYS" target="_blank"><img src="http://comic.sfacg.com/Logo/0892a129-7767-4fdf-b9aa-5043d8c06b80.jpg" width="80" height="100" border="0" alt="国崎出云轶事" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/GQCYYS" target="_blank">国崎出云轶事</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">084话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/BXGZ" target="_blank"><img src="http://comic.sfacg.com/Logo/9f7d2a13-7430-4d98-892f-2ce147a5cb2e.jpg" width="80" height="100" border="0" alt="百姓贵族" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/BXGZ" target="_blank">百姓贵族</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">024话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/Liar Game" target="_blank"><img src="http://comic.sfacg.com/Logo/LiarGame.jpg" width="80" height="100" border="0" alt="LiarGame(诈欺游戏)" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/Liar Game" target="_blank">LiarGame(诈欺游..</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">139话</td>
+                </tr>
+            </table></td>
+	</tr>
+	</table>
+	</div>
+	<div id="Day1" style="display:none">
+      <table border="0" cellpadding="0" cellspacing="0" class="font_red gray_link1 space10px">
+	<tr>
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/AIR-Gear" target="_blank"><img src="http://comic.sfacg.com/Logo/AIR-Gear.jpg" width="80" height="100" border="0" alt="飞轮少年" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/AIR-Gear" target="_blank">飞轮少年</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">338话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/ARACH" target="_blank"><img src="http://comic.sfacg.com/Logo/3714e436-7c8e-40fa-8447-07173e1d470b.jpg" width="80" height="100" border="0" alt="Arachnid" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/ARACH" target="_blank">Arachnid</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">024话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/SHPD" target="_blank"><img src="http://comic.sfacg.com/Logo/fd7c170b-19e4-408a-831e-fccfde9e5bf3.jpg" width="80" height="100" border="0" alt="神幻拍档" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/SHPD" target="_blank">神幻拍档</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">077话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/XFGJ" target="_blank"><img src="http://comic.sfacg.com/Logo/7fa1b874-c624-439a-9c5a-fb721712f24a.jpg" width="80" height="100" border="0" alt="旋风管家" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/XFGJ" target="_blank">旋风管家</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">347话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/MDMAG" target="_blank"><img src="http://comic.sfacg.com/Logo/567cf95b-0441-46a3-a5ce-e80ef9ebaba3.jpg" width="80" height="100" border="0" alt="魔笛MAGI" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/MDMAG" target="_blank">魔笛MAGI</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">119话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/JJDLH" target="_blank"><img src="http://comic.sfacg.com/Logo/e939aac7-e7fd-4dd5-9cb0-9794fbb85f6c.jpg" width="80" height="100" border="0" alt="境界的轮回" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/JJDLH" target="_blank">境界的轮回</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">124话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/JOJO8" target="_blank"><img src="http://comic.sfacg.com/Logo/201105/00efc4fe-9e93-4249-b32c-ed5f2da0e2fe.jpg" width="80" height="100" border="0" alt="JOJO奇妙冒险第8部" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/JOJO8" target="_blank">JOJO奇妙冒险第8部</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">005话</td>
+                </tr>
+            </table></td>
+	</tr><tr>
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/keroro" target="_blank"><img src="http://comic.sfacg.com/Logo/keroro.jpg" width="80" height="100" border="0" alt="keroro军曹" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/keroro" target="_blank">keroro军曹</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">176话</td>
+                </tr>
+            </table></td>
+	</tr>
+	</table>
+	</div>
+	<div id="Day0">
+      <table border="0" cellpadding="0" cellspacing="0" class="font_red gray_link1 space10px">
+	<tr>
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/YingHun" target="_blank"><img src="http://comic.sfacg.com/Logo/YingHun.jpg" width="80" height="100" border="0" alt="银魂" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/YingHun" target="_blank">银魂</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">380话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/YNDXZ" target="_blank"><img src="http://comic.sfacg.com/Logo/998b69d2-ad22-47cf-9b37-13035715cf33.jpg" width="80" height="100" border="0" alt="有你的小镇" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/YNDXZ" target="_blank">有你的小镇</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">161话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/FSJII" target="_blank"><img src="http://comic.sfacg.com/Logo/201107/7c180e5c-0faf-4b1e-a987-6d85805fbdfc.jpg" width="80" height="100" border="0" alt="封神纪II" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/FSJII" target="_blank">封神纪II</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">021话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/EMNB" target="_blank"><img src="http://comic.sfacg.com/Logo/45eb6781-07be-4a10-9a36-507755dc9b16.jpg" width="80" height="100" border="0" alt="恶魔奶爸" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/EMNB" target="_blank">恶魔奶爸</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">135话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/HTGZS" target="_blank"><img src="http://comic.sfacg.com/Logo/634411aa-e867-4fcf-880b-015b376ec37e.jpg" width="80" height="100" border="0" alt="滑头鬼之孙" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/HTGZS" target="_blank">滑头鬼之孙</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">181话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/AKB49" target="_blank"><img src="http://comic.sfacg.com/Logo/7a02c285-dbfa-4362-a7ec-19af753e7c8b.jpg" width="80" height="100" border="0" alt="AKB49" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/AKB49" target="_blank">AKB49</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">062话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/CQZX" target="_blank"><img src="http://comic.sfacg.com/Logo/071543d2-2dbf-4f29-b8de-72bf5cfe6f91.jpg" width="80" height="100" border="0" alt="春秋战雄" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/CQZX" target="_blank">春秋战雄</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">099话</td>
+                </tr>
+            </table></td>
+	</tr><tr>
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/OnePiece" target="_blank"><img src="http://comic.sfacg.com/Logo/OnePiece.jpg" width="80" height="100" border="0" alt="海贼王/One Piece" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/OnePiece" target="_blank">海贼王/One Piec..</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">648话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/HunterXHunter" target="_blank"><img src="http://comic.sfacg.com/Logo/HunterXHunter.jpg" width="80" height="100" border="0" alt="全职猎人" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/HunterXHunter" target="_blank">全职猎人</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">327话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/bleach" target="_blank"><img src="http://comic.sfacg.com/Logo/bleach.jpg" width="80" height="100" border="0" alt="死神" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/bleach" target="_blank">死神</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">475话</td>
+                </tr>
+            </table></td>
+	
+            <td height="170" valign="top" width="110"><table width="90" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="108" align="center" bgcolor="#FFFFFF" class="gray_frame"><a href="http://comic.sfacg.com/HTML/Naruto" target="_blank"><img src="http://comic.sfacg.com/Logo/Naruto.jpg" width="80" height="100" border="0" alt="火影忍者" /></a></td>
+                </tr>
+                <tr>
+                  <td height="30" align="center" bgcolor="#FFFFFF"><a href="http://comic.sfacg.com/HTML/Naruto" target="_blank">火影忍者</a></td>
+                </tr>
+                <tr>
+                  <td align="center" bgcolor="#FFFFFF">565话</td>
+                </tr>
+            </table></td>
+	</tr>
+	</table>
+	</div>
+      <table width="750" border="0" cellspacing="0" cellpadding="0" style="margin-top: 1px;">
+        <tr>
+          <td height="28" valign="top" bgcolor="#ededed" style="padding-right: 5px;">
+		  </td>
+        </tr>
+      </table></td>
+    <td valign="top"><table width="210" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+      <tr>
+        <td height="23" bgcolor="#FFFFFF"><table width="100%" height="23" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td class="block_bg"><h4 class="Subhead">周热门漫画排行榜</h4></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr class="font_gray gray_link1 Li_bg">
+        <td valign="top" bgcolor="#F7F7F7" class="Height_px22" style="padding: 6px;"><ul>
+            
+          <li><a href="http://comic.sfacg.com/HTML/OnePiece">海贼王/One Piece[648话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/Naruto">火影忍者[565话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/bleach">死神[475话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/HunterXHunter">全职猎人[327话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/shiszqdzqy">史上最强弟子兼一[453话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/EMNB">恶魔奶爸[135话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/AIR-Gear">飞轮少年[338话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/HTGZS">滑头鬼之孙[181话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/YJDWB">妖精的尾巴[261话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/JtjsREBORN">家庭教师REBORN![363话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/ZYSZD">只有神知道的世界[168话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/HZDLQ">黑子的篮球[143话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/Liar Game">LiarGame(诈欺游戏)[139话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/AKB49">AKB49[062话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/ZQHZHS">最强会长黑神[124话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/XFGJ">旋风管家[347话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/SkipBeat">Skip Beat[183话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/BXGZ">百姓贵族[024话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/FSJII">封神纪II[021话]</a></li>
+
+          <li><a href="http://comic.sfacg.com/HTML/MSDHL">美食的俘虏[166话]</a></li>
+
+          </ul></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+﻿<table width="980" height="36"  border="0" align="center" cellpadding="8" cellspacing="0" class="space10px">
+  <tr class="font_gray gray_link1">
+    <td bgcolor="#e3e3e3"><a href="http://www.sfacg.com/Extending/Announce.html">免责声明</a>　|　<a href="http://www.sfacg.com/Extending/CopyRight.html">版权隐私</a>　|　<a href="http://www.sfacg.com/Extending/ContactUs.html">联系方式</a>　|　<a href="http://www.sfacg.com/Extending/Links.html">友情链接</a>　|　<a href="http://www.sfacg.com/Extending/Advertisement.html">广告投放</a>　|　<a href="http://www.miibeian.gov.cn/">粤ICP备10062407号</a></td>
+    <td align="right" bgcolor="#e3e3e3" class="font_Gray">[C] 2005－2011 SFACG.COM All Rights Reserved</td>
+  </tr>
+</table>
+<script type="text/javascript">
+var dropDownList = new CDropDownList("dropDownList", "searchList");
+dropDownList.Create("/images/collapsed.gif", "/images/expanding.gif");
+dropDownList.SetStyle(70, 22, 1, 48, "#999999", "#FFFFFF");
+dropDownList.AddItem("漫画名称", "0");
+dropDownList.AddItem("作者名称", "1");
+dropDownList.SelectItem(0);
+</script>
+<div id="TJ" style="position:absolute; width:0; height:0; overflow: hidden;">
+<div id="RAD_A1">
+<script type="text/javascript"  src="/AD/A/A1.js" id="ADA1"></script>
+</div>
+</div>
+<script>
+document.getElementById('AD_A1').innerHTML = document.getElementById('RAD_A1').innerHTML;
+document.getElementById('RAD_A1').innerHTML = "";
+</script>
+<div id="TJ2" style="position:absolute; width:0; height:0; overflow: hidden;">
+<script src="http://v.sfacg.com/stats/tj.js?1.1"></script>
+</div>
+<script src='/AD/superpop.js?1.1'></script>
+<script src='/AD/float.js'></script>
+<script src='/AD/exitpop.js?1.2'></script>
+<script type="text/javascript" src="http://v2.jiathis.com/code_mini/jiathis_r.js?type=left&amp;move=0&amp;btn=l5.gif&amp;uid=91309" charset="utf-8"></script>
+<div style="position:absolute; width:0; height:0; overflow: hidden;">
+<script src="http://exp.jiankongbao.com/loadtrace.php?host_id=6642&style=6" type="text/javascript"></script>
+</div>
+</body>
+</html>
